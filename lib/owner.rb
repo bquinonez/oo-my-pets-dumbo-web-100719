@@ -2,7 +2,9 @@ class Owner
   # code goes here
   attr_accessor :name, :species
   
-  def initialize(name)
-    @name
+  def initialize(name, species)
+    @name = name 
+    @species = species 
+    
   end
 end
