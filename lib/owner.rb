@@ -14,5 +14,7 @@ class Owner
     
   end
   
-  def self.
+  def self.all
+    @@all
+  end 
 end
