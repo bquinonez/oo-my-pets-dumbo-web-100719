@@ -14,5 +14,5 @@ class Owner
     
   end
   
-  
+  def self.
 end
